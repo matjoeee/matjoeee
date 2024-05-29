@@ -1,5 +1,5 @@
 ## matjoeee@github:~# whoami
-Matthew
+matjoeee
 
 ## matjoeee@github:~# cat about-me.txt
 I am a 22y old student from Belgium. <br><br>
