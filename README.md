@@ -34,13 +34,14 @@ University: for the future
     - Ubuntu Server for Baracuda back-ups
   - PowerShell script for automatic unattended installation of entire folder of software.
 - Thomas More:
-  - Raspberry Pi 3B+ car running OpenCV for control by hand detection for final project of 1st year.
-  - Python back-end monopoly group project for *Python* subject of 2nd year. 
-  - Full PfSense setup for final project of 2nd year.
-  - AWS Cloud environment setup with Terraform and Ansible for *Cloud for Security, System & Services* subject of 3rd year.
-  - Research study on different types of monitoring systems with lab implementation for internship @ [Silta NV](https://silta-ict.be/) of 3rd year. <br>
+  - Raspberry Pi 3B+ car running OpenCV for control by hand detection for final project of 1st year (Private).
+  - Webshop for *PHP & MySQL* subject of 2nd year (Private).
+  - [Python back-end monopoly](https://github.com/Python-Project-Thomas-More-year-2/backend-flask-Python-Project-Thomas-More-year-2) group project for *Python* subject of 2nd year (Public). 
+  - Full PfSense setup for final project of 2nd year (Private).
+  - AWS Cloud environment setup with Terraform and Ansible for *Cloud for Security, System & Services* subject of 3rd year (Private).
+  - Research study on different types of monitoring systems with lab implementation for internship @ [Silta NV](https://silta-ict.be/) of 3rd year (Private). <br>
 ### 3. Personal other projects:
-- Bash and PowerShell scripts for automation in homelab (installs and back-ups).
-- Working on [Advent Of Code 2022](https://adventofcode.com/2022) in C and Java for practice.
-- Working on well-known minigames in C for practice.
-- Working on well-known minigames in Java for practice.
+- Bash and PowerShell scripts for automation on homelab installs and back-ups (Private).
+- Working on [Advent Of Code 2022](https://adventofcode.com/2022) in C and Java for practice (Private).
+- Working on [well-known minigames in C](https://github.com/matjoeee/C-Minigames) for practice (Public).
+- Working on [well-known minigames in Java](https://github.com/matjoeee/Java-Minigames) for practice (Public).
