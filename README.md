@@ -35,6 +35,7 @@ University: for the future
   - PowerShell script for automatic unattended installation of entire folder of software.
 - Thomas More:
   - Raspberry Pi 3B+ car running OpenCV for control by hand detection for final project of 1st year.
+  - Python back-end monopoly group project for *Python* subject of 2nd year. 
   - Full PfSense setup for final project of 2nd year.
   - AWS Cloud environment setup with Terraform and Ansible for *Cloud for Security, System & Services* subject of 3rd year.
   - Research study on different types of monitoring systems with lab implementation for internship @ [Silta NV](https://silta-ict.be/) of 3rd year. <br>
