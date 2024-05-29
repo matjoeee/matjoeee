@@ -15,7 +15,7 @@ University: for the future
 
 ## matjoeee@github:~# cat my-projects.txt
 ### 1. My own homelab:
-- Owner of the domain wuytsma.com (No public webpage available)
+- Owner of the domain hatjoe.com (No public webpage available)
 - Old desktop PC as (ubuntu)server running Docker:
   - Basic networking tools
   - Testing environment
