@@ -31,7 +31,7 @@ Certificates:
   - PowerShell script for automatic deployment of Hyper-V environment with:
     - Windows 10 Machine
     - Ubuntu 20.04 Machine
-    - Ubuntu Server for Baracuda back-ups
+    - Ubuntu Server for Bacula back-ups
   - PowerShell script for automatic unattended installation of entire folder of software.
 - Thomas More:
   - First year:
