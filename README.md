@@ -11,7 +11,7 @@ Other, unrelated interests are learning languages, mainly Roman languages such a
 High school: Human Sciences @ [KA Mortsel](https://www.kamortsel.be/) <br>
 Adult school: Certified computeroperator @ [Encora Berchem](https://cvoencora.stedelijkonderwijs.be/) <br>
 College: Student Security, Systems & Services @ [Thomas More De Nayer](https://thomasmore.be/nl/campus-de-nayer) <br>
-University: for the future
+Certificates:
 
 ## matjoeee@github:~# cat my-projects.txt
 ### 1. My own homelab:
@@ -48,3 +48,4 @@ University: for the future
 - Working on [Advent Of Code 2022](https://adventofcode.com/2022) in C and Java for practice (Private).
 - Working on [well-known minigames in C](https://github.com/matjoeee/C-Minigames) for practice (Public).
 - Working on [well-known minigames in Java](https://github.com/matjoeee/Java-Minigames) for practice (Public).
+- Working on [Python scripts](https://github.com/matjoeee/Python-Scripts) for practice and functionality (Public).
