@@ -47,5 +47,4 @@ Certificates:
 - [Bash, PowerShell, Batch & Docker](https://github.com/matjoeee/Scripting) scripts for automation on homelab installs, back-ups, and tests (Public).
 - Working on [Advent Of Code 2022](https://adventofcode.com/2022) in C and Java for practice (Private).
 - Working on [well-known minigames in C](https://github.com/matjoeee/C-Minigames) for practice (Public).
-- Working on [well-known minigames in Java](https://github.com/matjoeee/Java-Minigames) for practice (Public).
 - Working on [Python scripts](https://github.com/matjoeee/Python-Scripts) for practice and functionality (Public).
