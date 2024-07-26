@@ -12,7 +12,7 @@ High school: Human Sciences @ [KA Mortsel](https://www.kamortsel.be/) <br>
 Adult school: Certified computeroperator @ [Encora Berchem](https://cvoencora.stedelijkonderwijs.be/) <br>
 College: Student Security, Systems & Services @ [Thomas More De Nayer](https://thomasmore.be/nl/campus-de-nayer) <br>
 Certificates and badges:
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ae9fe55b-ca11-4585-b14a-f8dd417a41ce" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 
 ## matjoeee@github:~# cat my-projects.txt
 ### 1. My own homelab:
