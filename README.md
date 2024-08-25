@@ -14,7 +14,7 @@ College: Student Security, Systems & Services @ [Thomas More De Nayer](https://t
 Certificates and badges: [My Credly](https://www.credly.com/users/matthew-wuyts)
 
 ## matjoeee@github:~# cat my-projects.txt
-### 1. My own homelab:
+### 1 My own homelab:
 - Owner of the domain hatjoe.com (No public webpage available)
 - Old desktop PC as (ubuntu)server running Docker:
   - Basic networking tools
@@ -26,8 +26,7 @@ Certificates and badges: [My Credly](https://www.credly.com/users/matthew-wuyts)
 - Networking devices:
   - Old routers and switches
   - Set up in lab environment for research
-
-### 2. School projects:
+### 2 School projects:
 - Encora Berchem:
   - PowerShell script for automatic deployment of Hyper-V environment with:
     - Windows 10 Machine
@@ -44,8 +43,7 @@ Certificates and badges: [My Credly](https://www.credly.com/users/matthew-wuyts)
   - Third year:
     - AWS Cloud environment setup with Terraform and Ansible for *Cloud for Security, System & Services* subject of 3rd year (Private).
     - Research study on different types of monitoring systems with lab implementation for internship @ [Silta NV](https://silta-ict.be/) of 3rd year (Private).
-
-### 3. Personal other projects:
+### 3 Personal other projects:
 - [Bash, PowerShell, Batch & Docker](https://github.com/matjoeee/Scripting) scripts for automation on homelab installs, back-ups, and tests (Public).
 - Working on [Advent Of Code 2022](https://adventofcode.com/2022) in C and Java for practice (Private).
 - Working on [well-known minigames in C](https://github.com/matjoeee/C-Minigames) for practice (Public).
