@@ -25,7 +25,8 @@ Certificates and badges: [My Credly](https://www.credly.com/users/matthew-wuyts)
   - Small, temporary projects
 - Networking devices:
   - Old routers and switches
-  - Set up in lab environment for research <br>
+  - Set up in lab environment for research
+
 ### 2. School projects:
 - Encora Berchem:
   - PowerShell script for automatic deployment of Hyper-V environment with:
@@ -42,7 +43,8 @@ Certificates and badges: [My Credly](https://www.credly.com/users/matthew-wuyts)
     - Full PfSense Firewall setup for final project of 2nd year (Private).
   - Third year:
     - AWS Cloud environment setup with Terraform and Ansible for *Cloud for Security, System & Services* subject of 3rd year (Private).
-    - Research study on different types of monitoring systems with lab implementation for internship @ [Silta NV](https://silta-ict.be/) of 3rd year (Private). <br>
+    - Research study on different types of monitoring systems with lab implementation for internship @ [Silta NV](https://silta-ict.be/) of 3rd year (Private).
+
 ### 3. Personal other projects:
 - [Bash, PowerShell, Batch & Docker](https://github.com/matjoeee/Scripting) scripts for automation on homelab installs, back-ups, and tests (Public).
 - Working on [Advent Of Code 2022](https://adventofcode.com/2022) in C and Java for practice (Private).
