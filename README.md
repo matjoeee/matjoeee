@@ -52,4 +52,4 @@ Certificates and badges: [My Credly](https://www.credly.com/users/matthew-wuyts)
 - Working on [Python scripts](https://github.com/matjoeee/Python-Scripts) for practice and functionality (Private).
 ### 4 Work projects:
 - Making a network logging server with Icinga2 and Grafana on CentOS for City of Mortsel (Private).
-- Creating a cybersecurity dashboard for Silta NV (Private).
+- Creating a cybersecurity dashboard for [Silta NV](https://silta-ict.be/) (Private).
