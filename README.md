@@ -16,6 +16,7 @@ Certificates and badges: [My Credly](https://www.credly.com/users/matthew-wuyts)
 ## matjoeee@github:~# cat my-projects.txt
 ### 1 My own homelab:
 - Owner of the domain hatjoe.com
+  - Check out the [website](https://about.hatjoe.com)
 - Old desktop PC (ubuntu):
   - Anything media related since it still has a CD reader
 - 2 Raspberry Pi's:
@@ -39,17 +40,17 @@ Certificates and badges: [My Credly](https://www.credly.com/users/matthew-wuyts)
   - First year:
     - Raspberry Pi 3B+ car running OpenCV for control by hand detection for final project of 1st year (Private).
   - Second year:
-    - Webshop for *PHP & MySQL* subject of 2nd year (Private).
+    - Webshop for *PHP & MySQL* subject of 2nd year (Private - Currently cleaning up for making repo public).
     - [Python back-end monopoly](https://github.com/Python-Project-Thomas-More-year-2/backend-flask-Python-Project-Thomas-More-year-2) group project for *Python* subject of 2nd year (Public). 
     - Full PfSense Firewall setup for final project of 2nd year (Private).
   - Third year:
     - AWS Cloud environment setup with Terraform and Ansible for *Cloud for Security, System & Services* subject of 3rd year (Private).
     - Research study on different types of monitoring systems with lab implementation for internship @ [Silta NV](https://silta-ict.be/) of 3rd year (Private).
 ### 3 Personal other projects:
-- [Bash, PowerShell, Batch & Docker](https://github.com/matjoeee/Scripting) various scripts that might be useful (Public).
-- Working on [Advent Of Code 2022](https://adventofcode.com/2022) in C and Java for practice (Private).
-- Working on [Snakes and Ladders in C](https://github.com/matjoeee/C_Snakes-and-Ladders) for practice (Public).
-- Working on [Python scripts](https://github.com/matjoeee/Python-Scripts) for practice and functionality (Private).
+- [Bash, PowerShell, Batch & Docker](https://github.com/matjoeee/Scripting) various scripts that might be useful (Public - Updated when possible).
+- [Advent Of Code 2022](https://adventofcode.com/2022) in C and Java for practice (Private - WIP).
+- [Snakes and Ladders in C](https://github.com/matjoeee/C_Snakes-and-Ladders) for practice (Public).
+- [Python scripts](https://github.com/matjoeee/Python-Scripts) for practice and functionality (Private - WIP).
 ### 4 Work projects:
 - Making a network logging server with Icinga2 and Grafana on CentOS for City of Mortsel (Private).
 - Creating a cybersecurity dashboard for [Silta NV](https://silta-ict.be/) (Private).
