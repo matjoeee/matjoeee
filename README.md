@@ -48,9 +48,8 @@ Certificates and badges: [My Credly](https://www.credly.com/users/matthew-wuyts)
     - Research study on different types of monitoring systems with lab implementation for internship @ [Silta NV](https://silta-ict.be/) of 3rd year (Private).
 ### 3 Personal other projects:
 - [Bash, PowerShell, Batch & Docker](https://github.com/matjoeee/Scripting) various scripts that might be useful (Public - Updated when possible).
-- [Advent Of Code 2022](https://adventofcode.com/2022) in C and Java for practice (Private - WIP).
 - [Snakes and Ladders in C](https://github.com/matjoeee/C_Snakes-and-Ladders) for practice (Public).
-- [Python scripts](https://github.com/matjoeee/Python-Scripts) for practice and functionality (Private - WIP).
+- [Advent of Code 2024](https://github.com/matjoeee/AoC-2024) for practice (Public).
 ### 4 Work projects:
 - Making a network logging server with Icinga2 and Grafana on CentOS for City of Mortsel (Private).
 - Creating a cybersecurity dashboard for [Silta NV](https://silta-ict.be/) (Private).
