@@ -14,7 +14,7 @@ College: Student Security, Systems & Services @ [Thomas More De Nayer](https://t
 Certificates and badges: [My Credly](https://www.credly.com/users/matthew-wuyts)
 
 ## matjoeee@github:~# cat my-projects.txt
-### 1 My own homelab:
+### 1. My own homelab:
 - Owner of the domain hatjoe.com
   - Check out the [website](https://about.hatjoe.com)
 - Old desktop PC (ubuntu):
@@ -28,12 +28,13 @@ Certificates and badges: [My Credly](https://www.credly.com/users/matthew-wuyts)
 - Networking devices:
   - Old routers and switches
   - Set up in lab environment for research
-### 2 School projects:
+### 2. School projects:
 - Encora Berchem:
   - PowerShell script for automatic deployment of Hyper-V environment with:
     - Windows 10 Machine
     - Ubuntu 20.04 Machine
     - Ubuntu Server for Bacula back-ups
+    - Internal network between machines
   - PowerShell script for automatic unattended installation of entire folder of software.
   - Setting up web-, cloud-, and mail-server on raspberry pi.
 - Thomas More:
@@ -46,10 +47,53 @@ Certificates and badges: [My Credly](https://www.credly.com/users/matthew-wuyts)
   - Third year:
     - AWS Cloud environment setup with Terraform and Ansible for *Cloud for Security, System & Services* subject of 3rd year (Private).
     - Research study on different types of monitoring systems with lab implementation for internship @ [Silta NV](https://silta-ict.be/) of 3rd year (Private).
-### 3 Personal other projects:
+### 3. Personal other projects:
 - [Bash, PowerShell, Batch & Docker](https://github.com/matjoeee/Scripting) various scripts that might be useful (Public - Updated when possible).
 - [Snakes and Ladders in C](https://github.com/matjoeee/C_Snakes-and-Ladders) for practice (Public).
 - [Advent of Code 2024](https://github.com/matjoeee/AoC-2024) for practice (Public).
-### 4 Work projects:
+### 4. Student job projects:
 - Making a network logging server with Icinga2 and Grafana on CentOS for City of Mortsel (Private).
 - Creating a cybersecurity dashboard for [Silta NV](https://silta-ict.be/) (Private).
+
+## matjoeee@github:~# cat extra_skills.txt
+### 1. Windows Server:
+- DNS
+- Domain management
+- Users and Group policies
+- DHCP
+- VPN
+- RADIUS
+- RAS
+- Virtualization
+- ...
+### 2. Linux:
+- Knowledge of various types of Linux Distributions, such as:
+  - Arch Linux
+  - Ubuntu
+  - CentOS
+  - Fedora
+  - OpenSUSE
+  - ...
+- Using Linux Server to set up:
+  - Routing
+  - VoIP
+  - Web servers
+  - Proxy servers
+  - High Availability
+  - Docker (standalone and swarm)
+  - Users and Groups
+  - Cron scripts
+  - VPN
+  - Virtualization
+  - ...
+### 3. Cisco Networking:
+- Switching and routing:
+  - VLANs
+  - Remote connections
+  - ACLs
+  - Routing:
+    - RIPv2
+    - OSPF
+    - EIGRP
+    - Static routing
+  - ...
