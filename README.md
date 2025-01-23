@@ -22,7 +22,7 @@ Certificates and badges: [My Credly](https://www.credly.com/users/matthew-wuyts)
 - 2 Raspberry Pi's:
   - Small Docker purposes
   - NFS for 1TB spare storage
-- Minis Forums mini PC (ubuntu):
+- Minis Forums mini PC (Proxmox):
   - More important Docker purposes
   - Tests and research
 - Networking devices:
