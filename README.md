@@ -3,8 +3,8 @@ matjoeee
 
 ## matjoeee@github:~# cat about_me.txt
 I am a 22y old cybersecurity and networking enthousiast from Belgium. <br><br>
-I have always had an interest in IT, but since my study at Encora Berchem, this got more specific. I did this study between high school and college, since I had absolutely no idea what to do with my future. It is a great thing I made this choice, since here I discovered my passion for Linux, networking, system infrastructure and cyber security. <br><br>
-My programming skills still need some sharpening, but I am mostly programming in C, Python and I am currently learning Java as well. Other than that, I also work with Docker, Bash, PowerShell and plan to learn more about Terraform as well.<br><br>
+I have always had an interest in IT, but since my study at Encora Berchem, this got more specific. I did this study between high school and college, since I had absolutely no idea what to do with my future. It is a great thing I made this choice, since here I discovered my passion for Linux, networking, system infrastructure and cybersecurity. <br><br>
+My programming skills still need some sharpening, but I am mostly programming in C & Python. Other than that, I also work with Docker, Bash, PowerShell and plan to learn more about Terraform as well.<br><br>
 Other, unrelated interests are learning languages, mainly Roman languages such as French, Spanish, and Italian, as well as reading up on/ learning about Greek Mythology.
 
 ## matjoeee@github:~# cat studies.txt
