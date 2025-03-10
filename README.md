@@ -17,17 +17,9 @@ Certificates and badges: [My Credly](https://www.credly.com/users/matthew-wuyts)
 ### 1. My own homelab:
 - Owner of the domain hatjoe.com
   - Check out the [website](https://about.hatjoe.com)
-- Old desktop PC (ubuntu):
-  - Anything media related since it still has a CD reader
-- 2 Raspberry Pi's:
-  - Small Docker purposes
-  - NFS for 1TB spare storage
 - Minis Forums mini PC (Proxmox):
-  - More important Docker purposes
-  - Tests and research
-- Networking devices:
-  - Old routers and switches
-  - Set up in lab environment for research
+  - Self-hosting services like Vaultwarden and Nextcloud (LXC Containers)
+  - Tests and research (Virtual Machines)
 ### 2. School projects:
 - Encora Berchem:
   - PowerShell script for automatic deployment of Hyper-V environment with:
