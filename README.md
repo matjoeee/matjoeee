@@ -11,7 +11,8 @@ Other, unrelated interests are learning languages, mainly Roman languages such a
 High school: Human Sciences @ [KA Mortsel](https://www.kamortsel.be/) (2014-2020) <br>
 Adult school: Certified computeroperator @ [Encora Berchem](https://cvoencora.stedelijkonderwijs.be/) (2020-2021) <br>
 College: Student Security, Systems & Services @ [Thomas More De Nayer](https://thomasmore.be/nl/campus-de-nayer) (2021-2024) <br>
-Certificates and badges: [My Credly](https://www.credly.com/users/matthew-wuyts) (2024-now)
+My certificates and badges: [My Personal Credly](https://www.credly.com/users/matthew-wuyts) (2024-now) <br>
+Work certificates and badges: [My Work Credly](https://www.credly.com/users/matthew-wuyts.bf49e026) (2025-now)
 
 ## matjoeee@github:~# cat my-projects.txt
 ### 1. My own homelab:
