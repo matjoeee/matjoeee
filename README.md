@@ -46,7 +46,7 @@ Work certificates and badges: [My Work Credly](https://www.credly.com/users/matt
 - [Advent of Code 2024](https://github.com/matjoeee/AoC-2024) for practice (Public).
 ### 4. Student job projects:
 - Making a network logging server with Icinga2 and Grafana on CentOS for City of Mortsel (Private).
-- Creating a cybersecurity dashboard for [Silta NV](https://silta-ict.be/) (Private).
+- Creating a cybersecurity dashboard for [Silta NV](https://silta-ict.be/) (now known as [Conscia](https://conscia.be)) (Private).
 
 ## matjoeee@github:~# cat extra_skills.txt
 ### 1. Windows Server:
