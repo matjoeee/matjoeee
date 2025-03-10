@@ -39,7 +39,7 @@ Work certificates and badges: [My Work Credly](https://www.credly.com/users/matt
     - Full PfSense Firewall setup for final project of 2nd year (Private).
   - Third year:
     - AWS Cloud environment setup with Terraform and Ansible for *Cloud for Security, System & Services* subject of 3rd year (Private).
-    - Research study on different types of monitoring systems with lab implementation for internship @ [Silta NV](https://silta-ict.be/) of 3rd year (Private).
+    - Research study on different types of monitoring systems with lab implementation for internship @ [Silta NV](https://silta-ict.be/) (now known as [Conscia](https://conscia.be)) of 3rd year (Private).
 ### 3. Personal other projects:
 - [Bash, PowerShell, Batch & Docker](https://github.com/matjoeee/Scripting) various scripts that might be useful (Public - Updated when possible).
 - [Snakes and Ladders in C](https://github.com/matjoeee/C_Snakes-and-Ladders) for practice (Public).
