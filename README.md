@@ -44,6 +44,8 @@ Work certificates and badges: [My Work Credly](https://www.credly.com/users/matt
 - [Bash, PowerShell, Batch & Docker](https://github.com/matjoeee/Scripting) various scripts that might be useful (Public - Updated when possible).
 - [Snakes and Ladders in C](https://github.com/matjoeee/C_Snakes-and-Ladders) for practice (Public).
 - [Advent of Code 2024](https://github.com/matjoeee/AoC-2024) for practice (Public).
+- [Discord-ChatGPT-Bot](https://github.com/matjoeee/chatgpt-discord-bot) in a Docker Application w/ Python because it seemed cool, useful and I want to learn more about it (Private).
+- [Remake of my webshop](https://github.com/matjoeee/WuytsMatthew_webshop) in a Docker Application to learn more about it (Private).
 ### 4. Student job projects:
 - Making a network logging server with Icinga2 and Grafana on CentOS for City of Mortsel (Private).
 - Creating a cybersecurity dashboard for [Silta NV](https://silta-ict.be/) (now known as [Conscia](https://conscia.be)) (Private).
