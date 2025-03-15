@@ -34,7 +34,7 @@ Work certificates and badges: [My Work Credly](https://www.credly.com/users/matt
   - First year:
     - Raspberry Pi 3B+ car running OpenCV for control by hand detection for final project of 1st year (Private).
   - Second year:
-    - Webshop for *PHP & MySQL* subject of 2nd year (Private - Currently cleaning up for making repo public).
+    - [Webshop for *PHP & MySQL*](https://github.com/matjoeee/WuytsMatthew_webshop) subject of 2nd year (Private).
     - [Python back-end monopoly](https://github.com/Python-Project-Thomas-More-year-2/backend-flask-Python-Project-Thomas-More-year-2) group project for *Python* subject of 2nd year (Public). 
     - Full PfSense Firewall setup for final project of 2nd year (Private).
   - Third year:
