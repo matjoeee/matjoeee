@@ -18,7 +18,7 @@ Work certificates and badges: [My Work Credly](https://www.credly.com/users/matt
 ### 1. My own homelab:
 - Owner of the domain hatjoe.com
   - Check out the [website](https://about.hatjoe.com)
-- Minis Forums mini PC (Proxmox):
+- Dual Mini-PC Virtualization setup (Proxmox):
   - Self-hosting services like Vaultwarden and Nextcloud (LXC Containers)
   - Tests and research (Virtual Machines)
 ### 2. School projects:
